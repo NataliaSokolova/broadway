@@ -1,0 +1,39 @@
+body{
+	text-align: center;	
+	font-family: "Helvetica"
+	
+}
+h1{
+	font-size: 70px;	
+}
+h2{
+	font-size: 32px;
+}
+h3{
+	font-size: 23px;
+}
+.first{	
+	color: white;
+	background-image: url("../images/img.png");
+	background-position:center;
+	background-size: cover;
+	
+	
+	
+}
+a{
+	color: white;
+	font-size: 18px;
+}
+p{
+	font-size: 14px;
+}
+.footer{
+	color: white;
+	font-size: 11px;
+	background-color: dimgray;
+	text-align: left;
+}
+.copyr{
+	font-size: 11px;
+}
